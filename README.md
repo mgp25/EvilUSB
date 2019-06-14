@@ -27,11 +27,11 @@ optional arguments:
   -p PORT, --port PORT  Listening port (Default 4444)
   ```
   
-### Constributions
+## Contributions
   
 Feel free to propose your modifications. It would be a great idea to have an option to send automatic payloads to Windows targets in order to escalate privileges or gain persistence.
 
-### Note
+## Note
 
 The reverse manager shell was based on Wang Yihang's [project](https://github.com/WangYihang/Reverse-Shell-Manager).
 
