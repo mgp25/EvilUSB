@@ -9,6 +9,8 @@
  
  ### Instructions
  
+Requires **Python 3.5 or above.**
+ 
  ```
  usage: usb.py [-h] [-b BAT] [-i ICON] [-o OUTPUT] [-t TARGET] [-l] [-p PORT]
 
